@@ -1,0 +1,22 @@
+{
+  "name": "@zingle/coord",
+  "version": "0.0.1",
+  "description": "distributed computing tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zingle/coord.git"
+  },
+  "author": "Richard Remer <reanjr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zingle/coord/issues"
+  },
+  "homepage": "https://github.com/Zingle/coord#readme",
+  "dependencies": {
+    "bonjour": "^3.5.0"
+  }
+}
